@@ -1,0 +1,6 @@
+sqlalchemy
+pandas
+streamlit
+streamlit-option-menu
+streamlit-extras
+plotly 
